@@ -1,4 +1,4 @@
-# Week 1 Quiz
+# Introduction - Week 1 Quiz
 
 1. The diagram for traditional programming had Rules and Data In, but what came out?
     
