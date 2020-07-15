@@ -1,4 +1,4 @@
-# Week 2 Quiz
+# Introduction - Week 2 Quiz
 
 1. the name of the dataset of Fashion images used in this week’s code?
 
