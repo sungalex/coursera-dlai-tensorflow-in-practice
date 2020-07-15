@@ -1,4 +1,4 @@
-# Week 4 Quiz
+# Introduction - Week 4 Quiz
 
 1. Using Image Generator, how do you label images?
 
