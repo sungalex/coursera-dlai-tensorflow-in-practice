@@ -1,4 +1,4 @@
-# Week 3 Quiz
+# Introduction - Week 3 Quiz
 
 1. What is a Convolution?
 
